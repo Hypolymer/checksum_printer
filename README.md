@@ -1,7 +1,7 @@
 # checksum_printer
 
 **Written by Bill Jones (December 2021)**  
-*License:  CC-BY-NC*  
+*License:  CC-BY-NC-SA*  
 
 This repository contains a Python script that allows you to get the checksums for files in a directory.  The script will print out the checksums in Terminal as well as produce a spreadsheet of filenames and checksum values.
 
