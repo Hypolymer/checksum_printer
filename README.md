@@ -1,11 +1,15 @@
 # checksum_printer
 
-Written by Bill Jones (December 2021)  
-License:  CC-BY-NC  
+**Written by Bill Jones (December 2021)**  
+*License:  CC-BY-NC*  
 
 This repository contains a Python script that allows you to get the checksums for files in a directory.  The script will print out the checksums in Terminal as well as produce a spreadsheet of filenames and checksum values.
 
-Notice:  This script was tested on Python 3.7.9.  It may or may not work with older versions of Python.  You need to have Python installed in order to run this script.  To download Python, please visit [https://www.python.org/downloads/](https://www.python.org/downloads/).  You can check which version of Python you have installed by typing this into Terminal:
+Notice:  This script was tested on Python 3.7.9.  It may or may not work with older versions of Python.  You need to have Python installed in order to run this script.  To download Python, please visit:  
+  
+[https://www.python.org/downloads/](https://www.python.org/downloads/)  
+
+You can check which version of Python you have installed by typing this into Terminal:
 
 python -v
 
@@ -34,4 +38,4 @@ In Terminal, navigate to the folder that you want to check.  Use these commands 
 | cd .. | Go up a folder in current directory |
 | pwd | Print working directory (this gives you your current directory) |
 
-Use the TAB key to auto-complete filenames and directories
+Use the **TAB** key to auto-complete filenames and directories
